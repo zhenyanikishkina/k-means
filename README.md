@@ -1,5 +1,7 @@
 # k-means
 Финальная работа для курса "Введение в машинное обучение" от А. Г. Дьяконова. 
+
+
 Implementation of the K-means algorithm using numpy and matplotlib. 
 1. Investigate the dependence on the initial initialization strategy
 2. Investigate what tasks are suitable / not suitable for
